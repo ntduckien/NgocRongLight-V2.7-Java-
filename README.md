@@ -9,3 +9,7 @@
 - JDK (Java Development Kit) phiên bản 8 trở lên.
 - Trình biên dịch Java (javac) và công cụ quản lý gói (java) được thiết lập đúng đường dẫn.
 - Hệ điều hành: Windows, Linux hoặc macOS.
+
+## Nhà Phát Triển
+
+Tên: Nguyễn Đức Kiên
