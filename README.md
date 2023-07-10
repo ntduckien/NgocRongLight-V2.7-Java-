@@ -13,3 +13,4 @@
 ## Nhà Phát Triển
 
 Tên: Nguyễn Đức Kiên
+[![Downloads](https://img.shields.io/github/downloads/ntduckien/NgocRongLight-V2.7-Java-/total)](https://github.com/ntduckien/NgocRongLight-V2.7-Java-/releases)
