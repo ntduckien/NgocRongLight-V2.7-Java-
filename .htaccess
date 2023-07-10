@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+Options -Indexes
+ErrorDocument 402 /?err
+ErrorDocument 403 /?err
+ErrorDocument 404 /?err
+ErrorDocument 500 /?err
+DirectoryIndex index.php

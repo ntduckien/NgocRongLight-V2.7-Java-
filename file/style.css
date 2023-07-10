@@ -1,0 +1,16 @@
+  .list-group {
+        background-color: #f44336;
+        border-color: #f44336;
+    }
+    .list-group-item.active {
+        background-color: #f44336;
+        border-color: #f44336;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+        background-color: #f44336;
+    }
